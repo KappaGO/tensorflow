@@ -1,2 +1,2 @@
 # tensorflow
-study how to create 
+study how to create DNN
